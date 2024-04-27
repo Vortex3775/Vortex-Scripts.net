@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Scripts</title>
+<style>
+body {
+background-color: #000;
+color: #fff;
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+header {
+background-color: #f00;
+color: #fff;
+display: flex;
+align-items: center;
+justify-content: space-between;
+height: 80px;
+padding: 0 20px;
+}
+main {
+display: flex;
+align-items: center;
+justify-content: center;
+height: calc(100vh - 80px);
+flex-wrap: wrap;
+}
+button {
+background-color: #f00;
+color: #fff;
+border: none;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+margin-bottom: 10px;
+}
+a {
+color: #fff;
+text-decoration: none;
+margin-right: 10px;
+}
+</style>
+</head>
+<body>
+<header>
+<a href="https://www.youtube.com/@Vortex37755" target="_blank">YouTube</a>
+<a href="https://www.roblox.com/users/4548818179/profile#!/about" target="_blank">Roblox</a>
+</header>
+<main>
+<button onclick="window.location.href='https://rekonise.com/dashboard/social-unlocks/roblox-require-script-4sa6u';">FaresHubHub</button>
+<button onclick="window.location.href='https://rekonise.com/dashboard/social-unlocks/roblox-excavator-script-l58oi';">Excavator</button>
+<button onclick="window.location.href='https://rekonise.com/baseball-bat-v5-uj3fj';">Baseball Bat V5</button>
+<button onclick="window.location.href='https://www.example.com/script4';">Script 4</button>
+<button onclick="window.location.href='https://www.example.com/script5';">Script 5</button>
+</main>
+</body>
+</html>
